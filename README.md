@@ -1,4 +1,4 @@
-<div style="background-color:light-blue">
+<div style="background-color:lightblue">
 
 <h1>Hi My name is Valerie!</h1>
 
